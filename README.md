@@ -11,6 +11,7 @@ A multi-arm pendulum simulation using raylib.
 mkdir build cd build
 
 3. Build with CMake:
+cmake -DCMAKE_BUILD_TYPE=Release .. cmake --build .
 
 4. Run the executable from build/Release/rotating_circles.exe
 
