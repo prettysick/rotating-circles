@@ -1,0 +1,6 @@
+[submodule "build/external/raylib"]
+	path = build/external/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "external/raylib"]
+	path = external/raylib
+	url = https://github.com/raysan5/raylib
